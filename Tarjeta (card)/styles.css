@@ -1,0 +1,14 @@
+.tarjeta {
+    position: absolute;
+    top: 20px;
+    left: 500px;
+    width: 300px;
+    text-align: center;
+    padding: 20px;
+    background-color: aquamarine;
+    box-shadow: 3px 3px 10px rgba(red, green, blue, purple);
+    border-radius: 15px;
+    border: 5px solid black;
+}
+
+
